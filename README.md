@@ -1,0 +1,4 @@
+# GoogleTwoFactorAuthenticator
+GoogleTwoFactorAuthenticator
+
+Google 二次验证
